@@ -1,0 +1,2 @@
+# ForeighKey
+for foreign key
